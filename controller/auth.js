@@ -55,7 +55,7 @@ exports.register = async (req, res) => {
 
 exports.setJWT = async (req, res) => {
     console.log("jwt");
-    
+    console.log("test branch code");
     // res.cookie("accessToken", token, {
     //     maxAge: 60 * 60 * 1000,
     // });
